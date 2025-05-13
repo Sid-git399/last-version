@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.1.2",
+    "expo-linear-gradient": "~14.1.4",
+    "expo-screen-orientation": "^8.1.5",
+    "expo-speech": "~13.1.7",
+    "react-native-video": "^6.13.0"
+  },
+  "devDependencies": {
+    "typescript": "~5.8.3",
+    "@types/react": "~19.0.10"
+  }
+}
